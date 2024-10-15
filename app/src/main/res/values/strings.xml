@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Dog Nutrition App</string>
+    <string name="select_brand">Select Brand</string>
+    <string name="select_type">Select Type</string>
+    <string name="select_age">Select Age</string>
+    <string name="price_low_to_high">Price: Low to High</string>
+    <string name="price_high_to_low">Price: High to Low</string>
+    <!-- Add any other string resources here -->
+</resources>
